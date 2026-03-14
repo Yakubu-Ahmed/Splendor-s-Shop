@@ -1,0 +1,1 @@
+{\n  "name": "splendor-s-shop",\n  "version": "1.0.0",\n  "scripts": {\n    "dev": "astro dev",\n    "build": "astro build",\n    "preview": "astro preview"\n  },\n  "dependencies": {\n    "astro": "latest"\n  }\n}
